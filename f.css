@@ -43,3 +43,35 @@ header{
 .verx , .vniz{
     padding: 20px 0px;
 }
+.section4{
+    max-width: 1200px;
+    margin: auto;
+}
+.x4{
+    padding: 20px 0px;
+    display: flex;
+    gap: 20px;
+}
+.pyat{
+    width: 390px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    border: 1px solid #D7B18D;
+    border-radius: 10px;
+    padding: 10px;
+}
+.ot{
+    display: flex; 
+    gap: 30px;
+    align-items: center;
+}
+.podr{
+    width: 280px;
+    border: none;
+    border: 1px solid #D7B18D;
+    border-radius: 5px;
+}
+.melkiy{
+    font-size: 14px;
+}
