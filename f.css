@@ -46,6 +46,7 @@ header{
 .section4{
     max-width: 1200px;
     margin: auto;
+    padding: 50px 0px;
 }
 .x4{
     padding: 20px 0px;
@@ -75,6 +76,37 @@ header{
 .melkiy{
     font-size: 14px;
 }
-.section5 img{
+.section5{
+    max-width: 1200px;
+    margin:30px auto;
+    background-color: #F4F4F5;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 0px;
+}
+.section5 input{
+    height: 30px;
+}
+.poz{
+    font-size: 24px;
+}
+.gig{
+    font-size: 30px;
+}
+.po{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.tell{
+    background-color: #28303D;
+    color: white;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    font-size: 16px;
+}
+.section6 img{
     margin:0px 160px;
 }
