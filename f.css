@@ -6,4 +6,28 @@ header{
     margin: auto;
     display: flex; 
     justify-content: space-between;
+    padding: 30px;
+}
+.section1{
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    background-color: #F4F4F5;
+    padding: 80px ;
+    padding-bottom:0px ;
+}
+.gigant{
+    font-size: 80px;
+}
+.butt{
+    display: flex; 
+    align-items: center;
+    gap: 20px;
+}
+.rabot{
+    background-color: #D7B18D;
+    padding: 15px;
+    border: none;
+    border-radius: 10px;
 }
