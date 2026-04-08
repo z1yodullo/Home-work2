@@ -110,3 +110,9 @@ header{
 .section6 img{
     margin:0px 160px;
 }
+footer{
+    max-width: 1200px;
+    margin: 30px auto;
+    height: 340px;
+    background-color: #F4F4F4;
+}
