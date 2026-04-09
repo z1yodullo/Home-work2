@@ -146,7 +146,7 @@ footer p{
   }
   .section2{
     padding: 40px;
-    margin: 60px;
+    margin: 20px;
   }
   .xast{
     display: block;'=
@@ -156,7 +156,7 @@ footer p{
     display: flex;
     flex-direction: column;
     gap: 30px;
-    margin:0px 100px;
+    margin:0px 60px;
   }
   .section4{
     text-align: center;
@@ -165,7 +165,7 @@ footer p{
     display: flex;
     flex-direction: column;
     gap: 30px;
-    margin:40px 100px;
+    margin:40px 60px;
   }
   .section5{
     flex-direction: column;
@@ -183,6 +183,13 @@ footer p{
     padding: 60px;
   }
   .section6 img {
-  margin: 0px 40px;
+  margin: 0px 0px;
+}
+.seriy{
+  color: #A4AAB6;
+  font-size: 16px;
+  text-align: start;
+  width: 350px;
+  margin: auto;
 }
 }
